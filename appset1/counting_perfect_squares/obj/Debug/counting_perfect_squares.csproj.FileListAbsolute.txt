@@ -1,0 +1,6 @@
+c:\users\vreddipa\documents\visual studio 2015\Projects\counting_perfect_squares\bin\Debug\counting_perfect_squares.exe.config
+c:\users\vreddipa\documents\visual studio 2015\Projects\counting_perfect_squares\bin\Debug\counting_perfect_squares.exe
+c:\users\vreddipa\documents\visual studio 2015\Projects\counting_perfect_squares\bin\Debug\counting_perfect_squares.pdb
+c:\users\vreddipa\documents\visual studio 2015\Projects\counting_perfect_squares\obj\Debug\counting_perfect_squares.csprojResolveAssemblyReference.cache
+c:\users\vreddipa\documents\visual studio 2015\Projects\counting_perfect_squares\obj\Debug\counting_perfect_squares.exe
+c:\users\vreddipa\documents\visual studio 2015\Projects\counting_perfect_squares\obj\Debug\counting_perfect_squares.pdb
