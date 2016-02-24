@@ -1,0 +1,6 @@
+C:\Users\vreddipa\Documents\Visual Studio 2015\Projects\temp_test_functions\bin\Debug\temp_test_functions.exe.config
+C:\Users\vreddipa\documents\visual studio 2015\Projects\temp_test_functions\bin\Debug\temp_test_functions.exe
+C:\Users\vreddipa\documents\visual studio 2015\Projects\temp_test_functions\bin\Debug\temp_test_functions.pdb
+C:\Users\vreddipa\documents\visual studio 2015\Projects\temp_test_functions\obj\Debug\temp_test_functions.csprojResolveAssemblyReference.cache
+C:\Users\vreddipa\documents\visual studio 2015\Projects\temp_test_functions\obj\Debug\temp_test_functions.exe
+C:\Users\vreddipa\documents\visual studio 2015\Projects\temp_test_functions\obj\Debug\temp_test_functions.pdb

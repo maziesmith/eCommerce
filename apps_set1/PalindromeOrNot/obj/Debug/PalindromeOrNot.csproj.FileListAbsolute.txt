@@ -1,0 +1,6 @@
+C:\Users\vreddipa\documents\visual studio 2015\Projects\PalindromeOrNot\bin\Debug\PalindromeOrNot.exe.config
+C:\Users\vreddipa\documents\visual studio 2015\Projects\PalindromeOrNot\bin\Debug\PalindromeOrNot.exe
+C:\Users\vreddipa\documents\visual studio 2015\Projects\PalindromeOrNot\bin\Debug\PalindromeOrNot.pdb
+C:\Users\vreddipa\documents\visual studio 2015\Projects\PalindromeOrNot\obj\Debug\PalindromeOrNot.csprojResolveAssemblyReference.cache
+C:\Users\vreddipa\documents\visual studio 2015\Projects\PalindromeOrNot\obj\Debug\PalindromeOrNot.exe
+C:\Users\vreddipa\documents\visual studio 2015\Projects\PalindromeOrNot\obj\Debug\PalindromeOrNot.pdb

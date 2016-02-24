@@ -1,0 +1,6 @@
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\cutting_sticks\bin\Debug\cutting_sticks.exe.config
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\cutting_sticks\bin\Debug\cutting_sticks.exe
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\cutting_sticks\bin\Debug\cutting_sticks.pdb
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\cutting_sticks\obj\Debug\cutting_sticks.csprojResolveAssemblyReference.cache
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\cutting_sticks\obj\Debug\cutting_sticks.exe
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\cutting_sticks\obj\Debug\cutting_sticks.pdb

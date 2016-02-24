@@ -1,0 +1,5 @@
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\bin\Debug\beepi_problems.exe.config
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\bin\Debug\beepi_problems.exe
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\bin\Debug\beepi_problems.pdb
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\obj\Debug\beepi_problems.exe
+c:\users\vreddipa\documents\visual studio 2015\Projects\beepi_problems\obj\Debug\beepi_problems.pdb

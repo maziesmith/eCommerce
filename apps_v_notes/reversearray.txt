@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+
+namespace namespace.reverse.array
+    {
+    static class ReverseArray
+    {
+    static void Main()
+        {
+        Console.WriteLine("Enter the length of input array");
+        int inputArrayLength = Console.Readline();
+        
+        Console.WriteLine("Enter the values of array");
+        string inputArrayString = Console.Readline();
+        
+        int[] myFormatInputData = FormatInputData(inputArrayLength, inputArrayString);
+        int[] myReverseArrayFunction = ReverseArrayFunction(myFormatInputData);
+        FormatOutputData(myReverseArrayFunction);
+    
+    }
+        static int[] FormatInputData(int ArrayLength, string ArrayString)
+            {
+            string[] myInputDataString = ArrayString.Split(' ');
+            Array.ConvertAll(myInputDataString, int.Parse());
+            
+        }
+        static int[] ReverseArrayFunction(int[] inputArray)
+            {}
+        static void FormatOutputData(int[] functionOutput)
+            {}
+        
+    }
+}
