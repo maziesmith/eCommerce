@@ -1,0 +1,47 @@
+using System;
+
+namespace Palindrome
+{
+static class PalindromeOrNot
+{
+void Main(string inputData)
+{
+Console.WriteLine("Enter input Data");
+string inputData = Console.ReadLine();
+// char[] myInputArray = Console.ReadLine().ToCharArray();  // (q.. correct syntax required)
+char[] myFormatInputData = FormatInputData(inputData);   //q.. you could call this method directly since it is static.. had it not been static, you would have had to create object of the class prior to calling this function.
+bool myPalindromeResult = IsPalindromeOrNot(myFormatInputData);
+FormatOutputData(inputData, myPalindromeResult);
+Console.ReadKey();
+}
+
+char[] FormatInputData(string preFormatData)   //q.. is input parameter mandatory to call a method? If yes, how come Main method works even without providing input parameter?
+{
+char[] formattedInputArray = preFormatData.ToCharArray();
+return formattedInputArray;
+}
+
+bool IsPalindromeOrNot(char[] arr)
+{
+int j = arr.Length() - 1;
+for(int i = 0; i<j; i++)
+{
+if(arr[i] != arr[j])
+{
+return false;
+break;
+}
+else
+{j--;}
+}
+return true; 
+}
+
+void FormatOutputData(string inputDataInfo, bool resultInfo)
+{
+Console.WriteLine("Palindrome Or Not Result: {0} - {1}", inputDataInfo, resultInfo);
+}
+
+
+}
+}

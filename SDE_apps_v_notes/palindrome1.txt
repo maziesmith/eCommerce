@@ -1,0 +1,61 @@
+//Write code to find if the given string is a palindrome or not
+
+using Microsoft.System;
+//q.. s or m.s	ans.. System
+using Microsoft.System.Collections.Generic;
+//q.. what classes are you planning to use for this program
+using Microsoft.System.Text;
+using Microsoft.System.Linq;
+using Microsoft.System.Threading;
+//q.. basic libraries to reference in any program
+//q.. how to create custom libraries
+//q.. how to plan testing
+//q.. how to plan for edge cases
+
+
+
+namespace PalindromeOrNot
+//q.. what is namespace.. naming convention
+
+class Program
+{
+static void Main()
+//q.. if you are planning to give input through console, does it required to be mentioned as input parameter in Main() brackets?
+{
+Console.WriteLine("Input the string to check if it is a palindrome or not\n");
+string inputString = Console.Readline();
+inputArray = Char.ToStringArray(inputString);
+//q.. identify and memorize important methods..
+Palindrome(inputArray);
+Console.ReadKey();
+
+}
+
+static void Palindrome(string[] arr)
+{
+//q.. format in notepad++
+//q.. public or private etc.. void vs int.. 
+//q.. how to code? first complete Main function then algorithm function.. or vice versa
+//q.. notepad++ stop intellisense
+//q.. string or String?
+
+String arrLength = arr.Length;
+//q.. length or Length? is Length a method or property?
+
+for(int i=0; i< (arrLength)/2; i++)
+{
+if(arr[i] !== arr[arrLength - i -1 ])
+{
+Console.WriteLine("NOT a palindrome");
+break;
+//q.. break? method or property or what?
+//q.. break.. breaks from which loop?
+}
+
+}
+Console.WriteLine("Given string is a palindrome");
+
+}
+
+
+}
